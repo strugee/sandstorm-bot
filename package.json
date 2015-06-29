@@ -1,0 +1,19 @@
+{
+  "name": "sandstorm-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot that will tell you to package $project for Sandstorm. Inspired by @asheeshlaroia.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strugee/sandstorm-bot.git"
+  },
+  "author": "Alex Jordan <alex@strugee.net>",
+  "license": "AGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/strugee/sandstorm-bot/issues"
+  },
+  "homepage": "https://github.com/strugee/sandstorm-bot"
+}
