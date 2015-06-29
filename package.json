@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/strugee/sandstorm-bot/issues"
   },
-  "homepage": "https://github.com/strugee/sandstorm-bot"
+  "homepage": "https://github.com/strugee/sandstorm-bot",
+  "dependencies": {
+    "raw-body": "^2.1.1"
+  }
 }
